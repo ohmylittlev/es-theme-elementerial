@@ -177,6 +177,7 @@
   <view name="screen">
     <text name="clock">
       <color>FFFFFF</color>
+      <visible>false</visible>
     </text>
 
     <batteryIndicator name="batteryIndicator">

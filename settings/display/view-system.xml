@@ -167,6 +167,7 @@
 
   <view name="screen">
     <text name="clock">
+      <visible>false</visible>
       <origin>0 0.5</origin>
       <pos>0 0.0375</pos>      <!-- 480x320 / 0x 12y-->
       <pos ifSubset="Ratio:ratio43">0 0.0375</pos>      <!-- 480x320 / 0x 16y-->
